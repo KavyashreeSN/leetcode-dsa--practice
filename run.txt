@@ -1,0 +1,1 @@
+ g++ "par and func.cpp" -o a && ./a
