@@ -1,3 +1,7 @@
+//1752. Check if Array is Sorted or Rotated
+/*Given an array nums, return true if the array was originally sorted in non-decreasing order, then rotated some number of positions (including zero).
+Otherwise, return false.*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
