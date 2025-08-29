@@ -1,7 +1,9 @@
+//31 Next Permutation
+//A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
+//TC --> ~O(3n)
 #include <vector>
 #include <algorithm>
 using namespace std;
-
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
