@@ -7,7 +7,8 @@ Currently, I am focusing on **C++ basics, Arrays, and Sorting** problems.
 
 - 🟢 Basics of C++ (loops, functions, input/output, etc.)  
 - 🟢 Arrays (searching, frequency, largest/smallest element, etc.)  
-- 🟢 Sorting (Bubble Sort, Selection Sort, Insertion Sort)  
+- 🟢 Sorting (Bubble Sort, Selection Sort, Insertion Sort)
+- 🟢 Binary Search (Binary Search on 1D Arrays , on answers , 2D Arrays)   
 
 ---
 
@@ -18,6 +19,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/your-username/leetcode-dsa-practice.git
 
+---
 
 🎯 Goals :
 
