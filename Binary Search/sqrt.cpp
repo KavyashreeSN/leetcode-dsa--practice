@@ -1,3 +1,9 @@
+/*Find square root of a number
+Given a positive integer n. Find and return its square root. 
+If n is not a perfect square, then return the floor value of sqrt(n).
+
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

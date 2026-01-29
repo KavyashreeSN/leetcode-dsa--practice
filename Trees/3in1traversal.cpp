@@ -1,3 +1,12 @@
+/*Pre, Post, Inorder in one traversal
+Given a binary tree with root node.
+ Return the In-order,Pre-order and Post-order traversal of the binary tree.
+
+ TC -->O(3n)
+ SC -->O(4n)
+
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -24,7 +33,7 @@ public:
                 it.second++;
                 st.push(it);
                 if (it.first->left != nullptr) {
-                    st.push({it.first->left, 1}); // fixed missing semicolon
+                    st.push({it.first->left, 1}); 
                 }
             }
             else if (it.second == 2) {
@@ -39,7 +48,7 @@ public:
                 post.push_back(it.first->val);
             }
         }
-        return {pre, in, post}; // return all traversals
+        return {pre, in, post}; 
     }
 };
 

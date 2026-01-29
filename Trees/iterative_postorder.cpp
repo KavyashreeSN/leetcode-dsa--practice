@@ -1,4 +1,4 @@
-/* Iterative Postorder Traversal
+/* Iterative Postorder Traversal using two stacks
 
 Given root of binary tree, return the postorder traversal of the binary tree.
 

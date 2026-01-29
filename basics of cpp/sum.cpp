@@ -1,3 +1,9 @@
+/*1.Sum of Elements with Frequency Divisible by K
+
+You are given an integer array nums and an integer k.
+
+Return an integer denoting the sum of all elements in nums whose frequency is divisible by k, or 0 if there are no such elements.©leetcode*/
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>

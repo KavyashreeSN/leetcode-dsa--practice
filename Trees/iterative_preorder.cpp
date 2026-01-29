@@ -1,3 +1,10 @@
+/* Iterative Preoder Traversal
+
+Given root of binary tree, return the preorder traversal of the binary tree.
+
+TC -->O(n)
+SC -->O(n)(worst case)*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
