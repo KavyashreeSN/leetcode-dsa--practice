@@ -1,3 +1,10 @@
+/*Length of loop in LL
+
+Given the head of a singly linked list, find the length of the loop in the linked list if it exists. Return the length of the loop if it exists; otherwise, return 0.
+
+A loop exists in a linked list if some node in the list can be reached again by continuously following the next pointer. Internally, pos is used to denote the index (0-based) of the node from where the loop starts.
+Note that pos is not passed as a parameter.*/
+
 #include <iostream>
 using namespace std;
 
@@ -57,8 +64,6 @@ int main() {
     head->next->next = new ListNode(3);
     head->next->next->next = new ListNode(4);
     head->next->next->next->next = new ListNode(5);
-
-    // Create loop: 5 -> points back to node with value 3
     head->next->next->next->next->next = head->next->next;
 
     Solution obj;
