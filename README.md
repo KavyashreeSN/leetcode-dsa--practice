@@ -8,7 +8,9 @@ Currently, I am focusing on **C++ basics, Arrays, and Sorting** problems.
 - 🟢 Basics of C++ (loops, functions, input/output, etc.)  
 - 🟢 Arrays (searching, frequency, largest/smallest element, etc.)  
 - 🟢 Sorting (Bubble Sort, Selection Sort, Insertion Sort)
-- 🟢 Binary Search (Binary Search on 1D Arrays , on answers , 2D Arrays)   
+- 🟢 Binary Search (Binary Search on 1D Arrays , on answers , 2D Arrays)
+- 🟢 Linked List (reverse, middle node, loop detection, palindrome)
+- 🟢 Binary Trees (traversals, height, level order)
 
 ---
 
