@@ -1,32 +1,39 @@
-#  LeetCode DSA Practice
+# LeetCode DSA Practice 🚀
 
-This repository contains my solutions to **LeetCode problems** that I practice while learning **Data Structures and Algorithms (DSA)**.  
-Currently, I am focusing on **C++ basics, Arrays, and Sorting** problems.  
+This repository contains my solutions to **LeetCode problems** that I solve while learning and practicing **Data Structures and Algorithms (DSA)** in C++.
 
-##  Topics Covered (so far)
+I'm following **Striver's A2Z DSA Sheet** as my learning roadmap and adding solutions as I progress.
 
-- 🟢 Basics of C++ (loops, functions, input/output, etc.)  
-- 🟢 Arrays (searching, frequency, largest/smallest element, etc.)  
-- 🟢 Sorting (Bubble Sort, Selection Sort, Insertion Sort)
-- 🟢 Binary Search (Binary Search on 1D Arrays , on answers , 2D Arrays)
-- 🟢 Linked List (reverse, middle node, loop detection, palindrome)
-- 🟢 Binary Trees (traversals, height, level order)
+## 📚 Topics Covered
 
----
+A collection of problems covering the core concepts of DSA, including:
 
-##  How to Run
+* Arrays & Sorting
+* Binary Search
+* Linked Lists
+* Binary Trees
+* Stacks & Queues
+* Sliding Window
+* Bit Manipulation
+* Graphs
 
-Clone this repository:
+## 🎯 Goals
 
-```bash
-git clone https://github.com/your-username/leetcode-dsa-practice.git
+* Complete Striver's A2Z DSA Sheet
+* Strengthen problem-solving skills
+* Build a strong foundation in DSA
+* Practice consistently
+* Prepare for coding interviews and online assessments
 
----
+## 🛠️ Tech Stack
 
-🎯 Goals :
+* **Language:** C++
+* **Platform:** LeetCode
+* **Roadmap:** Striver's A2Z DSA Sheet
+* **Tools:** VS Code, Git & GitHub
 
-Complete Striver’s A2Z DSA Sheet step by step
+## 📌 Progress
 
-Strengthen my problem-solving skills in C++
+This repository is continuously updated as I learn new concepts and solve more problems.
 
-Build consistency by solving problems daily
+> **Learn. Solve. Improve. Repeat. 🚀**
